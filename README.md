@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manzoor Khiliriya</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🌱 I’m currently learning **Database**
+- 🌱 I’m currently learning **NodeJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
